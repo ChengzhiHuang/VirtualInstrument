@@ -20,5 +20,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/instrument"/>
-
+    <!--
+    应该是每个琴键单独一张图，响声音时单独一张图，轻音重音都单独一张图
+    -->
 </RelativeLayout>
