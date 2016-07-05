@@ -1,6 +1,6 @@
-C:/VirtualInstrument/app/src/main/obj/local/arm64-v8a/objs/ndk_jni_utils/DetectionBasedTracker_jni.o: \
- C:/VirtualInstrument/app/src/main/jni/DetectionBasedTracker_jni.cpp \
- C:/VirtualInstrument/app/src/main/jni/DetectionBasedTracker_jni.h \
+C:/Users/Chengzhi/Documents/GitHub/VirtualInstrument/VirtualInstrument/app/src/main/obj/local/arm64-v8a/objs/ndk_jni_utils/DetectionBasedTracker_jni.o: \
+ C:/Users/Chengzhi/Documents/GitHub/VirtualInstrument/VirtualInstrument/app/src/main/jni/DetectionBasedTracker_jni.cpp \
+ C:/Users/Chengzhi/Documents/GitHub/VirtualInstrument/VirtualInstrument/app/src/main/jni/DetectionBasedTracker_jni.h \
  C:/OpenCV-android-sdk/sdk/native/jni/include/opencv/highgui.h \
  C:/OpenCV-android-sdk/sdk/native/jni/include/opencv2/core/core_c.h \
  C:/OpenCV-android-sdk/sdk/native/jni/include/opencv2/core/types_c.h \
@@ -54,7 +54,7 @@ C:/VirtualInstrument/app/src/main/obj/local/arm64-v8a/objs/ndk_jni_utils/Detecti
  C:/OpenCV-android-sdk/sdk/native/jni/include/opencv2/imgproc/imgproc.hpp \
  C:/OpenCV-android-sdk/sdk/native/jni/include/opencv2/imgproc.hpp
 
-C:/VirtualInstrument/app/src/main/jni/DetectionBasedTracker_jni.h:
+C:/Users/Chengzhi/Documents/GitHub/VirtualInstrument/VirtualInstrument/app/src/main/jni/DetectionBasedTracker_jni.h:
 
 C:/OpenCV-android-sdk/sdk/native/jni/include/opencv/highgui.h:
 
